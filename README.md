@@ -1,5 +1,5 @@
 <h1>Pokedex com Angular</h1>
-<h4>Em desenvolvimento</h4>
+<h3>Em desenvolvimento</h3>
 
 <h3>DEMO:</h3>
 
