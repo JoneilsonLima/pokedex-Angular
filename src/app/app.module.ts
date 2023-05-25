@@ -6,8 +6,10 @@ import { AppComponent } from './app.component';
 
 //Modules
 import { PagesModule } from './pages/pages.module';
+import { RoutingModule } from './pages/routing.module';
 
 //Componentes
+
 
 @NgModule({
   declarations: [
@@ -16,7 +18,8 @@ import { PagesModule } from './pages/pages.module';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    PagesModule
+    PagesModule,
+    RoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
