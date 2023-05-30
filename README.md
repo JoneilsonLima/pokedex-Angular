@@ -1,5 +1,5 @@
 <h1><a href="https://pokedex-angular-12.netlify.app/" target="_blank">Pokedex com Angular</a></h1>
-<h3>Em desenvolvimento</h3>
+<h3>Em desenvolvimento!!</h3>
 
 <h3>DEMO:</h3>
 
